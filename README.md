@@ -12,4 +12,4 @@ I'm a junior developer passionate about building user-friendly web applications 
 - Redux for state management
 - Node.js basics
 
-Beyond coding, I enjoy reading, listening to inspiring podcasts, swimming, and spending quality time with my nieces. Let’s build something amazing together! 🚀
+Beyond coding, I enjoy reading, listening to inspiring podcasts, swimming, and spending quality time with my family and friends. Let’s build something amazing together! 🚀
