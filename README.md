@@ -5,7 +5,7 @@ I'm a junior developer passionate about building user-friendly web applications 
 
 ## 🛠️ Technologies & Tools
 - **Frontend:** React, Next.js, JavaScript, TailwindCSS, HTML, CSS
-- **Tools:** Git, GitHub, VS Code, npm, Webpack
+- **Tools:** Figma, Git, VS codeGitHub, VS Code, npm, Webpack
 
 ## 🌱 Currently Learning
 - Advanced React
