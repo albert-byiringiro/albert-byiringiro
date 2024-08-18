@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Albert Byiringiro!
 I'm a software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond. 
 
-## 🚀 About Me
-With a strong background in software quality assurance and a deep commitment to serving others, I bring a unique blend of technical expertise, discipline, attention to details, and empathy to the programming world. My passion lies in developing software solutions that ensure high quality.  I am driven by a desire to make a meaningful impact through my work, helping others succeed while delivering reliable and effective software.
+## 😄 About Me
+With a strong background in software quality assurance and a deep commitment to serving others, I bring a unique blend of technical expertise, discipline, attention to details, and empathy to the programming world. My passion lies in developing software solutions that ensure high quality. I am driven by a desire to make a meaningful impact through my work, helping others succeed while delivering reliable and effective software.
 
-## Technical Skills 🛠️
+## 🛠️ Technical Skills
 - **Languages**: JavaScript, TypeScript
 - **Frameworks & Libraries**: React, Next.js, Node.js
 - **Tools & Platforms**: GitHub, Figma
@@ -14,12 +14,12 @@ With a strong background in software quality assurance and a deep commitment to 
 - Node.js
 - Mathematics for Machine Learning
 
-## Professional Goals 🚀
+## 🚀 Professional Goals
 - **Career Development**: Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
 
 - **Continuous Learning**: Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 
-## Connect with Me 📬
+## 📬 Connect with Me
 🐦 [Twitter](https://x.com/AlbertByhope)
 📫 [Email](byiringiroalbert20@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/albert-byiringiro/)
