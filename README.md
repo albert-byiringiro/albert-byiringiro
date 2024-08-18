@@ -16,4 +16,4 @@ When I'm not coding, I focus on staying healthy. I like reading books, especiall
 - State management with Redux
 - Backend basics with Node.js
 
-When I’m not coding, you’ll find me singing, swimming, or playing with my nieces. Let’s build something great together! 🚀
+Let’s build something great together! 🚀
