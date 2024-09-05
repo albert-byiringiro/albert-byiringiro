@@ -2,7 +2,7 @@
 I'm a software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond. 
 
 ## 😄 About Me
-With a strong background in software quality assurance and a deep commitment to serving others, I bring a unique blend of technical expertise, discipline, attention to details, and empathy to the programming world. My passion lies in developing software solutions that ensure high quality. I am driven by a desire to make a meaningful impact through my work, helping others succeed while delivering reliable and effective software.
+I am driven by a desire to make a meaningful impact through my work, helping others succeed while delivering reliable and effective software.
 
 ## 🛠️ Technical Skills
 - **Languages**: JavaScript, TypeScript
