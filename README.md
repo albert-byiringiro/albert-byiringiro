@@ -12,7 +12,6 @@ I am driven by a desire to make a meaningful impact through my work, helping oth
 ## 🌱 Currently Learning
 - Advanced React
 - Node.js
-- Mathematics for Machine Learning
 
 ## 🚀 Professional Goals
 - **Career Development**: Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
