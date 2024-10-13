@@ -6,12 +6,12 @@ I am driven by a desire to make a meaningful impact through my work, helping oth
 
 ## 🛠️ Technical Skills
 - **Languages**: JavaScript, TypeScript
-- **Frameworks & Libraries**: React, Next.js, Node.js
+- **Frameworks & Libraries**: React, Next.js, Node.js, Express.js, NestJS
 - **Tools & Platforms**: GitHub, Figma
 
 ## 🌱 Currently Learning
 - Advanced React
-- Node.js
+- NestJS
 
 ## 🚀 Professional Goals
 - **Career Development**: Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
