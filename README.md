@@ -9,7 +9,9 @@ I am driven by a desire to make a meaningful impact through my work, helping oth
 - **Frameworks & Libraries**: React, Next.js, Node.js, Express.js, NestJS
 - **Tools & Platforms**: GitHub, Figma
 
-[![Albert's GitHub stats](https://github-readme-stats-ten-delta-27.vercel.app/api?username=albert-byiringiro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+[![Albert's GitHub stats](https://github-readme-stats-ten-delta-27.vercel.app/api?username=albert-byiringiro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)]
+
 
 
 ## 🌱 Currently Learning
