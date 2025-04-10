@@ -4,6 +4,8 @@ I'm a software engineer focused on harnessing technology to make significant imp
 ## 😄 About Me
 I am driven by a desire to make a meaningful impact through my work, helping others succeed while delivering reliable and effective software.
 
+[![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=albert-byiringiro)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🛠️ Technical Skills
 - **Languages**: JavaScript, TypeScript
 - **Frameworks & Libraries**: React, Next.js, Node.js, Express.js, NestJS
