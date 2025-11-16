@@ -5,11 +5,13 @@ I'm a software engineer focused on harnessing technology to make significant imp
 I am driven by a desire to make a meaningful impact through my work, helping others succeed while delivering reliable and effective software.
 
 ## 🛠️ Technical Skills
-- **Languages**: JavaScript, TypeScript
+- **Languages**: JavaScript, TypeScript, C#, Python
 - **Frameworks & Libraries**: React, Next.js, Node.js, Express.js, NestJS
 
-## 🌱 Currently Building
-- Idenlia (eye-Den-li-aah) - a privacy-focused Progressive Web App (PWA) designed to help individuals build lasting habits by aligning them with their desired identity.
+## 🌱 Currently Working
+- Working on cool projects Ironji (`Ironji Dashboard`) and revamp their marketing site (ironji.com).
+- Working on Education learning platform with The Gym Rwanda: Brainix
+- [MASTER'S PROGRAM IN FULL-STACK ENGINEERING](https://furry-marquess-473.notion.site/MASTER-S-PROGRAM-IN-FULL-STACK-ENGINEERING-2adf3c788a1f80e2b123fc4206d52746?source=copy_link)
 
 ## 🚀 Professional Goals
 - **Career Development**: Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
