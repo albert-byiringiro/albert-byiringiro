@@ -5,8 +5,8 @@ I'm a software engineer focused on harnessing technology to make significant imp
 I am driven by a desire to make a meaningful impact through my work, helping others succeed while delivering reliable and effective software.
 
 ## 🛠️ Technical Skills
-- **Languages**: JavaScript, TypeScript, C#, Python
-- **Frameworks & Libraries**: React, Next.js, Node.js, Express.js, NestJS
+- **Languages**: JavaScript/TypeScript, C#, Python
+- **Frameworks & Libraries**: React, Next.js, Node.js, Express.js, NestJS, .NET
 
 ## 🌱 Currently Working
 - Working on cool projects Ironji (`Ironji Dashboard`) and revamp their marketing site (ironji.com).
