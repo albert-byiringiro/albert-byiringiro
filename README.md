@@ -9,9 +9,7 @@ I am driven by a desire to make a meaningful impact through my work, helping oth
 - **Frameworks & Libraries**: React, Next.js, Node.js, Express.js, NestJS, .NET
 
 ## 🌱 Currently Working
-- Working on cool projects Ironji (`Ironji Dashboard`) and revamp their marketing site (ironji.com).
-- Working on Education learning platform with The Gym Rwanda: Brainix
-- [MASTER'S PROGRAM IN FULL-STACK ENGINEERING](https://furry-marquess-473.notion.site/MASTER-S-PROGRAM-IN-FULL-STACK-ENGINEERING-2adf3c788a1f80e2b123fc4206d52746?source=copy_link)
+- Working on Education learning platform with Garage B: Brainix
 
 ## 🚀 Professional Goals
 - **Career Development**: Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
