@@ -1,24 +1,40 @@
-# 👋 Hi, I'm Albert Byiringiro!
-I'm a software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond. 
+# Albert Byiringiro
 
-## 😄 About Me
-I am driven by a desire to make a meaningful impact through my work, helping others succeed while delivering reliable and effective software.
+Software Engineer & AI Engineer — Kigali, Rwanda.
 
-## 🛠️ Technical Skills
-- **Languages**: JavaScript/TypeScript, C#, Python
-- **Frameworks & Libraries**: React, Next.js, Node.js, Express.js, NestJS, .NET
+I build reliable systems and coach the people building them. Currently going deep on AI Engineering — LLMs, RAG, and agent systems. Driven by work that makes a real difference.
 
-## 🌱 Currently Working
-- Working on Education learning platform with Garage B: Brainix
+---
 
-## 🚀 Professional Goals
-- **Career Development**: Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
+## What I'm working on
 
-- **Continuous Learning**: Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
+- **Brainix / Garage B** — Ed-tech platform with 20+ microservices. Building the student interface, educator CMS, and reporting dashboard in React/TypeScript and C#/.NET.
+- **AI Engineering** (MaibornWolff / Ojemba) — LLMs, RAG, multimodal AI, and agent orchestration with Python and FastAPI. Building toward a production-ready AI system as capstone.
+- **Coaching** — 130+ university students from zero to employed at The Gym, Kigali.
 
-## 📬 Connect with Me
-🐦 [Twitter](https://x.com/AlbertByhope)
-📫 [Email](byiringiroalbert20@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/albert-byiringiro/)
+---
 
-I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
+## Stack
+
+**Languages** — JavaScript · TypeScript · C# · Python
+
+**Frameworks** — React · Next.js · Node.js · Express.js · NestJS · .NET
+
+---
+
+## Selected work
+
+| Project | Stack | Description |
+|---|---|---|
+| Brainix | C#, .NET, React, TypeScript | Ed-tech platform, 20+ microservices |
+| Ironji | Next.js, GraphQL, MongoDB, Prisma | Shipment tracking across 30 Rwandan districts |
+| AI Club | Python, LLMs | Co-ran bi-weekly AI sessions for 20+ developers |
+
+---
+
+## Connect
+
+- Web — [albertbyiringiro.com](https://albertbyiringiro.com)
+- LinkedIn — [albert-byiringiro](https://www.linkedin.com/in/albert-byiringiro/)
+- Twitter — [@AlbertByhope](https://x.com/AlbertByhope)
+- Email — byiringiroalbert20@gmail.com
